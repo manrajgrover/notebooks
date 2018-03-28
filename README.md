@@ -8,7 +8,10 @@ Contains code for the first round of qualification of IndiaHacks in which 2 prob
     - [Predict the Road Sign](https://github.com/ManrajGrover/notebooks/tree/master/competitions/Indiahacks%20Machine%20Learning%20Qualifier%202017/Predict%20the%20Road%20Sign)
     - [Predict the Segment](https://github.com/ManrajGrover/notebooks/tree/master/competitions/Indiahacks%20Machine%20Learning%20Qualifier%202017/Predict%20the%20Segment)
 
-Notebooks for Round 2 and Finals could not be shared.
+Notebooks for Round 2 and Finals could not be shared. Rankings:
+
+* India Hacks Round 2 2017 - Rank `5 / 60`
+* India Hacks Finals 2017 - Rank `6 / 15`
 
 ## Tutorials
 
