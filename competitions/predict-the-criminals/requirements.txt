@@ -89,7 +89,7 @@ smart-open==1.5.3
 spinners==0.0.19
 statsmodels==0.8.0
 subprocess32==3.2.7
-tensorflow==1.2.0
+tensorflow==2.5.0
 termcolor==1.1.0
 terminado==0.6
 testpath==0.3
