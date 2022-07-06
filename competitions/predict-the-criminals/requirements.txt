@@ -26,7 +26,7 @@ future==0.16.0
 gensim==2.2.0
 halo==0.0.7
 hmmlearn==0.2.0
-html5lib==0.9999999
+html5lib==0.999999999
 hyperopt==0.1
 idna==2.5
 ipykernel==4.6.1
