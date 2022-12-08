@@ -8,7 +8,7 @@ boto==2.48.0
 bsddb3==5.3.0
 bz2file==0.98
 catboost==0.1.1.5
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.3.9
 configparser==3.5.0
